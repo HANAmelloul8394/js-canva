@@ -1,0 +1,1 @@
+Built an object-oriented communication simulator using vanilla JavaScript and HTML Canvas. Designed client-server logic, real-time data flow, and visual routing with DOM integration and dynamic rendering.
